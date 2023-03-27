@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">SI_SAT_Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_something_went_wrong">Oops, something went wrong.</string>
+    <string name="error_no_internet_connection">Hmm…it looks like you\'re offline.</string>
+    <string name="weather">Weather : </string>
+    <string name="series_status">Series Status : </string>
+    <string name="venue">Venue : </string>
+    <string name="umpires">Umpires : </string>
+    <string name="officials">Officials :</string>
+    <string name="result">Result :</string>
+    <string name="captain"> &#160; - C</string>
+    <string name="wicket_keeper"> &#160; - WK</string>
+    <string name="all_players">All players</string>
+    <string name="team_one">Team one</string>
+    <string name="team_two">Team two</string>
 </resources>
